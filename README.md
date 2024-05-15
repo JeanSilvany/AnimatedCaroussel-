@@ -1,3 +1,7 @@
+## Preview:
+
+https://github.com/JeanSilvany/AnimatedCaroussel-/assets/73763375/af42ed0b-9e63-464e-b7b5-2922b89a7339
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
